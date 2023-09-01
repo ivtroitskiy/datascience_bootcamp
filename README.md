@@ -1,2 +1,2 @@
-# datascience_bootcamp
-Задания из курса Яндекс.Практикум datascience bootcamp
+# Задания Data Scince буткемп
+1. Финальный проект "Предсказание температуры стали
